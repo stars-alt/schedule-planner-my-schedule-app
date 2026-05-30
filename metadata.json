@@ -1,0 +1,6 @@
+{
+  "name": "Schedule Planner",
+  "description": "일정을 한눈에 보고 관리할 수 있는 모던한 표 형태의 스케줄러",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
